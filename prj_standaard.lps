@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="47">
+      <Unit0>
+        <Filename Value="prj_standaard.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="32" Y="19"/>
+        <UsageCount Value="224"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="fpvectorial.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="646"/>
+        <CursorPos X="20" Y="646"/>
+        <UsageCount Value="224"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="fpvutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1147"/>
+        <CursorPos X="47" Y="1153"/>
+        <UsageCount Value="224"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="datamodule.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="datamodule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DatModMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="566"/>
+        <CursorPos X="13" Y="586"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="globals.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="69"/>
+        <CursorPos X="24" Y="87"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="mainform.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="200"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainForm"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="140"/>
+        <CursorPos Y="163"/>
+        <UsageCount Value="200"/>
+        <Bookmarks Count="1">
+          <Item0 X="5" Y="167" ID="2"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="frm_subjects.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSubjects"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="51" Y="25"/>
+        <UsageCount Value="200"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="frm_lookups.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLookUps"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frm_Lookups"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="35"/>
+        <CursorPos X="36" Y="44"/>
+        <UsageCount Value="229"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="fram_lkupitems.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="framLkUpItems"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="fram_LkUpItems"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="21" Y="19"/>
+        <UsageCount Value="226"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="cls_entities.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Cls_Entities"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="43" Y="12"/>
+        <UsageCount Value="200"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="frm_items.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmItems"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="188"/>
+        <CursorPos X="20" Y="202"/>
+        <UsageCount Value="222"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="sqlcommands.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="29" Y="54"/>
+        <UsageCount Value="222"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="fram_standaard.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="framStandaard"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="17" Y="15"/>
+        <UsageCount Value="217"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="frm_database.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDataBase"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="86"/>
+        <CursorPos Y="98"/>
+        <UsageCount Value="182"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="cls_appinit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="201"/>
+        <CursorPos X="44" Y="203"/>
+        <UsageCount Value="171"/>
+        <Bookmarks Count="3">
+          <Item0 Y="144" ID="1"/>
+          <Item1 X="3" Y="58" ID="4"/>
+          <Item2 Y="82" ID="3"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="frm_shownotes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmShowNotes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6"/>
+        <UsageCount Value="163"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="frm_languages.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLanguages"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="27" Y="68"/>
+        <UsageCount Value="149"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="cls_migrate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="16" Y="36"/>
+        <UsageCount Value="127"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="frm_settings.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSettings"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="105"/>
+        <CursorPos X="87" Y="113"/>
+        <UsageCount Value="124"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="frm_doctypes.pas"/>
+        <ComponentName Value="frmDocTypes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frm_DocTypes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="65" Y="71"/>
+        <UsageCount Value="168"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="frm_documents.pas"/>
+        <ComponentName Value="frmDocuments"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frm_Documents"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="114"/>
+        <CursorPos X="85" Y="141"/>
+        <UsageCount Value="119"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="frm_dossiers.pas"/>
+        <ComponentName Value="frmDossiers"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frm_Dossiers"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="64" Y="44"/>
+        <UsageCount Value="75"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="fram_dossieritems.pas"/>
+        <ComponentName Value="framDossierItems"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="fram_DossierItems"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="68" Y="14"/>
+        <UsageCount Value="73"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="fram_versions.pas"/>
+        <ComponentName Value="framVersions"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="3" Y="42"/>
+        <UsageCount Value="44"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="frm_docmanager.pas"/>
+        <ComponentName Value="frmDocManager"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="33" Y="34"/>
+        <UsageCount Value="130"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="../fpOdf-master/odf_types.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2062"/>
+        <CursorPos Y="2077"/>
+        <UsageCount Value="51"/>
+        <Bookmarks Count="3">
+          <Item0 X="42" Y="160" ID="2"/>
+          <Item1 X="31" Y="477" ID="4"/>
+          <Item2 X="37" Y="912" ID="5"/>
+        </Bookmarks>
+      </Unit27>
+      <Unit28>
+        <Filename Value="../fpOdf-master/odf_xmlutils.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="58" Y="39"/>
+        <UsageCount Value="31"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="/usr/share/lazarus/1.6/lcl/include/speedbutton.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="833"/>
+        <CursorPos Y="852"/>
+        <UsageCount Value="24"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="../Comp-NoProblem/VD_FormPosSize.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="15" Y="37"/>
+        <UsageCount Value="63"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="frm_testform.pas"/>
+        <ComponentName Value="frmTestForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="63" Y="16"/>
+        <UsageCount Value="25"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="../Prj_Laz_DVDAdmin/mainform.pas"/>
+        <ComponentName Value="FrmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainForm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="158"/>
+        <CursorPos X="89" Y="164"/>
+        <UsageCount Value="1"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="../Gemeenschappelijk/ps_inifile.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="4"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="../Gemeenschappelijk/VD_Global.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="16" Y="34"/>
+        <UsageCount Value="1"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="../Prj_Laz_Vocabulaire/prj_vocabulaire.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="1"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="../Prj_Laz_Vocabulaire/datamodule.pas"/>
+        <ComponentName Value="DatModMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="1"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="../Prj_Laz_DVDAdmin/fram_genres.pas"/>
+        <ComponentName Value="framGenres"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="18" Y="59"/>
+        <UsageCount Value="3"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="../Prj_Laz_DVDAdmin/fram_ratings.pas"/>
+        <ComponentName Value="framRatings"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="56" Y="16"/>
+        <UsageCount Value="1"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="../Prj_Laz_DVDAdmin/frm_genres.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="62"/>
+        <CursorPos X="10" Y="87"/>
+        <UsageCount Value="1"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="fram_standaard.lfm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="90" Y="4"/>
+        <UsageCount Value="1"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="/home/corbij/Programs/LazarusFpcup/lazarus/lcl/include/customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2163"/>
+        <CursorPos Y="2174"/>
+        <UsageCount Value="55"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="../Proj_Laz_KnolBase/datamodule.pas"/>
+        <UnitName Value="DataModule"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="67"/>
+        <UsageCount Value="9"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="../Prj_Laz_DocManager/datamodule.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="250"/>
+        <UsageCount Value="9"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="../Prj_Laz_Git_Todo/fpvectorial.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="../Prj_Laz_Git_Todo/datamodule.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="266"/>
+        <CursorPos X="25" Y="282"/>
+        <UsageCount Value="12"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="../Gemeenschappelijk/VD_Conversie.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="405"/>
+        <CursorPos X="34" Y="421"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit46>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="186" TopLine="181"/>
+      </Position1>
+      <Position2>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="529" TopLine="500"/>
+      </Position2>
+      <Position3>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="152" Column="36" TopLine="126"/>
+      </Position3>
+      <Position4>
+        <Filename Value="cls_appinit.pas"/>
+        <Caret Line="149" Column="42" TopLine="106"/>
+      </Position4>
+      <Position5>
+        <Filename Value="cls_appinit.pas"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../Gemeenschappelijk/VD_Conversie.pas"/>
+        <Caret Line="287" Column="7" TopLine="271"/>
+      </Position6>
+      <Position7>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="533" Column="56" TopLine="516"/>
+      </Position7>
+      <Position8>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="152" Column="14" TopLine="126"/>
+      </Position8>
+      <Position9>
+        <Filename Value="frm_settings.pas"/>
+        <Caret Line="80" Column="50" TopLine="69"/>
+      </Position9>
+      <Position10>
+        <Filename Value="frm_settings.pas"/>
+        <Caret Line="83" Column="50" TopLine="72"/>
+      </Position10>
+      <Position11>
+        <Filename Value="frm_database.pas"/>
+        <Caret Line="225" Column="49" TopLine="201"/>
+      </Position11>
+      <Position12>
+        <Filename Value="frm_settings.pas"/>
+        <Caret Line="78" Column="73" TopLine="73"/>
+      </Position12>
+      <Position13>
+        <Filename Value="frm_settings.pas"/>
+        <Caret Line="154" TopLine="126"/>
+      </Position13>
+      <Position14>
+        <Filename Value="frm_settings.pas"/>
+        <Caret Line="155" TopLine="127"/>
+      </Position14>
+      <Position15>
+        <Filename Value="frm_settings.pas"/>
+        <Caret Line="152" Column="12" TopLine="127"/>
+      </Position15>
+      <Position16>
+        <Filename Value="../Gemeenschappelijk/VD_Conversie.pas"/>
+        <Caret Line="385" Column="37" TopLine="368"/>
+      </Position16>
+      <Position17>
+        <Filename Value="../Gemeenschappelijk/VD_Conversie.pas"/>
+        <Caret Line="388" Column="32" TopLine="372"/>
+      </Position17>
+      <Position18>
+        <Filename Value="../Gemeenschappelijk/VD_Conversie.pas"/>
+        <Caret Line="407" Column="25" TopLine="390"/>
+      </Position18>
+      <Position19>
+        <Filename Value="../Gemeenschappelijk/VD_Conversie.pas"/>
+        <Caret Line="421" Column="34" TopLine="405"/>
+      </Position19>
+      <Position20>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="152" Column="32" TopLine="138"/>
+      </Position20>
+      <Position21>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="532" Column="8" TopLine="519"/>
+      </Position21>
+      <Position22>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="574" Column="10" TopLine="565"/>
+      </Position22>
+      <Position23>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="153" Column="50" TopLine="139"/>
+      </Position23>
+      <Position24>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="532" Column="5" TopLine="531"/>
+      </Position24>
+      <Position25>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="153" Column="59" TopLine="138"/>
+      </Position25>
+      <Position26>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="533" Column="74" TopLine="530"/>
+      </Position26>
+      <Position27>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="546" TopLine="529"/>
+      </Position27>
+      <Position28>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="548" Column="32" TopLine="531"/>
+      </Position28>
+      <Position29>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="586" Column="13" TopLine="566"/>
+      </Position29>
+      <Position30>
+        <Filename Value="cls_appinit.pas"/>
+        <Caret Line="146" Column="60" TopLine="138"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="../fpOdf-master/odf_types.pas"/>
+        <Line Value="2077"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
